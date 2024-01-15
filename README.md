@@ -4,8 +4,8 @@ Welcome to the "Python3 For Beginners" project! This repository is designed to h
 
 ## Table of Contents
 
-- [Jupyter Notebook](/.Tips and Tricks.ipynb)
-- [Python3 Naming Conventions](/.Naming Conventions.ipynb)
+- [Jupyter Notebook](./Tips and Tricks.ipynb)
+- [Python3 Naming Conventions](./Naming Conventions.ipynb)
 - [Topics Covered](#topics-covered)
 
 
